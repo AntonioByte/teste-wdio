@@ -1,0 +1,3 @@
+adicionar o app "app-wdio.apk" na pasta.
+
+Criar um projeto de automação mobile utilizando o APP WDIO, encontrado aqui aqui: https://github.com/webdriverio/native-demo-app
